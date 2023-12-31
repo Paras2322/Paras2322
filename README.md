@@ -11,11 +11,7 @@
 - 🌱 I am currently learning Java/Spring Boot 
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- ⚡ Fun fact: I love to play cricket
-
-<br>
-
-<br />
+- ⚡ Fun fact: I love to play cricket.
 
 ### Languages and Tools:
 
